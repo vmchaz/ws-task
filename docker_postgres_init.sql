@@ -1,0 +1,2 @@
+CREATE TABLE IF NOT EXISTS public.items(id INTEGER PRIMARY KEY UNIQUE, description TEXT, status INTEGER);
+

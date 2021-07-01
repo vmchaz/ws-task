@@ -1,0 +1,6 @@
+psycopg2
+flask==1.1.2
+sqlalchemy
+flask_sqlalchemy
+flask_restx
+gunicorn
